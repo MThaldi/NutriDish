@@ -1,0 +1,61 @@
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+#top{
+     background-image: url("/static/wall_7.jpg");
+}
+#heading{
+color:white;
+text-align: center;
+vertical-align: center;
+line-height: 90px;
+}
+#divider{
+     background-image: url("/static/fruit.jpg");
+
+color:white;
+text-align: center;
+vertical-align: center;
+line-height: 90px;
+
+}
+
+#divider_2{
+     background-image: url("/static/sand_2.jpg");
+
+color:white;
+text-align: center;
+vertical-align: center;
+line-height: 90px;
+
+}
+
+#divider_3{
+    background-image: url("/static/wall_9.jpg");
+    color:white;
+    text-align: center;
+    vertical-align: center;
+    line-height: 90px;
+}
+#foot{
+background-color:RGB(52,58,64);
+color:white;
+
+}
